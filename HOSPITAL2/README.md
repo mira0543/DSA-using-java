@@ -5,8 +5,9 @@ This Java program manages employees and calculates their monthly salaries. The c
 
 
 ## Expected Output
+
 ![HOSPITAL output](Screenshots/hospitaloutput.png)
-```
+
 
 ## Assignment Questions and Answers
 
