@@ -7,7 +7,7 @@ This Java program calculates the total cost of medical services in a hospital. T
 
 ## Expected Output
 
-![Employee output](Screenshots/Employeeoutput.png)
+![Employee output](Screenshot/Employeeoutput.png)
 
 
 ## Assignment Questions and Answers
